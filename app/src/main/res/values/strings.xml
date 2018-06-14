@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Music2</string>
+    <string name="songs">Songs</string>
+    <string name="artists">Artists</string>
+    <string name="albums">Albums</string>
+    <string name="JimmyEW">Jimmy Eat World</string>
+    <string-array name="JimmyEWAlbums">
+        <item>Jimmy Eat World</item>
+        <item>Chase This Light</item>
+    </string-array>
+    <string-array name="JimmyEWASongs">
+        <item>A Praise Chorus</item>
+        <item>The Middle</item>
+        <item>Sweetness</item>
+        <item>The Authority Song</item>
+        <item>Get it Faster</item>
+        <item>If You Dont, Dont</item>
+        <item>Hear You Me</item>
+    </string-array>
+    <string-array name="ChaseSongs">
+        <item>Dizzy</item>
+        <item>Firefight</item>
+        <item>Chase this Light</item>
+        <item>Here it Goes</item>
+        <item>Feeling Lucky</item>
+        <item>Gotta Be Somebody's Blues</item>
+    </string-array>
+    <string name="HighlyS">Highly Suspect</string>
+    <string-array name="HighlySAlbums">
+        <item>Mister Asylum</item>
+        <item>The Boy Who Died Wolf</item>
+    </string-array>
+    <string-array name="MisterSongs">
+        <item>Mister Asylum</item>
+        <item>Lost</item>
+        <item>Lydia</item>
+        <item>Bath Salts</item>
+        <item>23</item>
+        <item>Bloodfeather</item>
+    </string-array>
+    <string-array name="WolfSongs">
+        <item>Chicago</item>
+        <item>Send Me an Angel</item>
+        <item>Little One</item>
+        <item>My Name is Human</item>
+    </string-array>
+    <string name="Ben">Breaking Benjamin</string>
+    <string-array name="BenAlbums">
+        <item>Dear Agony</item>
+        <item>Dark Before Dawn</item>
+        <item>Phobia</item>
+    </string-array>
+    <string-array name="DearSongs">
+        <item>Without You</item>
+        <item>Dear Agony</item>
+        <item>Lights Out</item>
+        <item>Anthem of the Angels</item>
+    </string-array>
+    <string-array name="DawnSongs">
+        <item>Ashes of Eden</item>
+        <item>The Great Divide</item>
+        <item>Never Again</item>
+        <item>Hollow</item>
+    </string-array>
+    <string-array name="PhobiaSongs">
+        <item>Had Enough</item>
+        <item>Here We Are</item>
+        <item>Until The End</item>
+        <item>The Diary of Jane</item>
+    </string-array>
+
+</resources>
